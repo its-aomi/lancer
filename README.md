@@ -1,3 +1,3 @@
-## Freelance Website
+# Freelance Website
 
-# View Site - https://its-aomi.github.io/lancer/
+## View Site - https://its-aomi.github.io/lancer/
