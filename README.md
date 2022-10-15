@@ -1,1 +1,1 @@
-https://its-aomi.github.io/lancer/
+https://borah.link/
