@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Air Apps	</title>
-	<atom:link href="https://airapps.co/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://airapps.co</link>
+	<atom:link href="https://borah.link/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://borah.link</link>
 	<description></description>
 	<lastBuildDate>Mon, 24 Oct 2022 18:05:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://airapps.co/2022/10/24/hello-world/#comment-1</link>
+		<link>https://borah.link/2022/10/24/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 24 Oct 2022 18:05:55 +0000</pubDate>
-		<guid isPermaLink="false">https://airapps.co/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://borah.link/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
